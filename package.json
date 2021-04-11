@@ -1,0 +1,26 @@
+{
+    "name": "iform-zt", 
+    "version": "2.0.10",     
+    "description": "iform vue component", 
+    "main": "src/index.js", 
+    "scripts": { 
+    },
+    "repository": { 
+      "type": "git",
+      "url": "git@github.com:tumsoft/iform.git"
+    },
+    "keywords": [ 
+      "npm",
+      "vue component",
+      "iForm",
+      "iForm Zt"
+    ],
+    "author": "Tanakorn Norsuwan",
+    "license": "MIT", 
+    "bugs": { 
+      "url": "https://github.com/tumsoft/iform/issues"
+    },
+    "homepage": "https://github.com/tumsoft/iform/blob/master/README.md", 
+    "devDependencies": { 
+    }
+} 

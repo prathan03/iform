@@ -1,0 +1,4642 @@
+[
+    {
+        "district_code": "1001",
+        "district": "พระนคร",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1002",
+        "district": "ดุสิต",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1003",
+        "district": "หนองจอก",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1004",
+        "district": "บางรัก",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1005",
+        "district": "บางเขน",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1006",
+        "district": "บางกะปิ",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1007",
+        "district": "ปทุมวัน",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1008",
+        "district": "ป้อมปราบศัตรูพ่าย",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1009",
+        "district": "พระโขนง",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1010",
+        "district": "มีนบุรี",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1011",
+        "district": "ลาดกระบัง",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1012",
+        "district": "ยานนาวา",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1013",
+        "district": "สัมพันธวงศ์",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1014",
+        "district": "พญาไท",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1015",
+        "district": "ธนบุรี",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1016",
+        "district": "บางกอกใหญ่",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1017",
+        "district": "ห้วยขวาง",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1018",
+        "district": "คลองสาน",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1019",
+        "district": "ตลิ่งชัน",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1020",
+        "district": "บางกอกน้อย",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1021",
+        "district": "บางขุนเทียน",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1022",
+        "district": "ภาษีเจริญ",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1023",
+        "district": "หนองแขม",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1024",
+        "district": "ราษฎร์บูรณะ",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1025",
+        "district": "บางพลัด",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1026",
+        "district": "ดินแดง",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1027",
+        "district": "บึงกุ่ม",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1028",
+        "district": "สาทร",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1029",
+        "district": "บางซื่อ",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1030",
+        "district": "จตุจักร",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1031",
+        "district": "บางคอแหลม",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1032",
+        "district": "ประเวศ",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1033",
+        "district": "คลองเตย",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1034",
+        "district": "สวนหลวง",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1035",
+        "district": "จอมทอง",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1036",
+        "district": "ดอนเมือง",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1037",
+        "district": "ราชเทวี",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1038",
+        "district": "ลาดพร้าว",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1039",
+        "district": "วัฒนา",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1040",
+        "district": "บางแค",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1041",
+        "district": "หลักสี่",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1042",
+        "district": "สายไหม",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1043",
+        "district": "คันนายาว",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1044",
+        "district": "สะพานสูง",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1045",
+        "district": "วังทองหลาง",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1046",
+        "district": "คลองสามวา",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1047",
+        "district": "บางนา",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1048",
+        "district": "ทวีวัฒนา",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1049",
+        "district": "ทุ่งครุ",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1050",
+        "district": "บางบอน",
+        "province_code": "10"
+    },
+    {
+        "district_code": "1101",
+        "district": "เมืองสมุทรปราการ",
+        "province_code": "11"
+    },
+    {
+        "district_code": "1102",
+        "district": "บางบ่อ",
+        "province_code": "11"
+    },
+    {
+        "district_code": "1103",
+        "district": "บางพลี",
+        "province_code": "11"
+    },
+    {
+        "district_code": "1104",
+        "district": "พระประแดง",
+        "province_code": "11"
+    },
+    {
+        "district_code": "1105",
+        "district": "พระสมุทรเจดีย์",
+        "province_code": "11"
+    },
+    {
+        "district_code": "1106",
+        "district": "บางเสาธง",
+        "province_code": "11"
+    },
+    {
+        "district_code": "1201",
+        "district": "เมืองนนทบุรี",
+        "province_code": "12"
+    },
+    {
+        "district_code": "1202",
+        "district": "บางกรวย",
+        "province_code": "12"
+    },
+    {
+        "district_code": "1203",
+        "district": "บางใหญ่",
+        "province_code": "12"
+    },
+    {
+        "district_code": "1204",
+        "district": "บางบัวทอง",
+        "province_code": "12"
+    },
+    {
+        "district_code": "1205",
+        "district": "ไทรน้อย",
+        "province_code": "12"
+    },
+    {
+        "district_code": "1206",
+        "district": "ปากเกร็ด",
+        "province_code": "12"
+    },
+    {
+        "district_code": "1301",
+        "district": "เมืองปทุมธานี",
+        "province_code": "13"
+    },
+    {
+        "district_code": "1302",
+        "district": "คลองหลวง",
+        "province_code": "13"
+    },
+    {
+        "district_code": "1303",
+        "district": "ธัญบุรี",
+        "province_code": "13"
+    },
+    {
+        "district_code": "1304",
+        "district": "หนองเสือ",
+        "province_code": "13"
+    },
+    {
+        "district_code": "1305",
+        "district": "ลาดหลุมแก้ว",
+        "province_code": "13"
+    },
+    {
+        "district_code": "1306",
+        "district": "ลำลูกกา",
+        "province_code": "13"
+    },
+    {
+        "district_code": "1307",
+        "district": "สามโคก",
+        "province_code": "13"
+    },
+    {
+        "district_code": "1401",
+        "district": "พระนครศรีอยุธยา",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1402",
+        "district": "ท่าเรือ",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1403",
+        "district": "นครหลวง",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1404",
+        "district": "บางไทร",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1405",
+        "district": "บางบาล",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1406",
+        "district": "บางปะอิน",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1407",
+        "district": "บางปะหัน",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1408",
+        "district": "ผักไห่",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1409",
+        "district": "ภาชี",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1410",
+        "district": "ลาดบัวหลวง",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1411",
+        "district": "วังน้อย",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1412",
+        "district": "เสนา",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1413",
+        "district": "บางซ้าย",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1414",
+        "district": "อุทัย",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1415",
+        "district": "มหาราช",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1416",
+        "district": "บ้านแพรก",
+        "province_code": "14"
+    },
+    {
+        "district_code": "1501",
+        "district": "เมืองอ่างทอง",
+        "province_code": "15"
+    },
+    {
+        "district_code": "1502",
+        "district": "ไชโย",
+        "province_code": "15"
+    },
+    {
+        "district_code": "1503",
+        "district": "ป่าโมก",
+        "province_code": "15"
+    },
+    {
+        "district_code": "1504",
+        "district": "โพธิ์ทอง",
+        "province_code": "15"
+    },
+    {
+        "district_code": "1505",
+        "district": "แสวงหา",
+        "province_code": "15"
+    },
+    {
+        "district_code": "1506",
+        "district": "วิเศษชัยชาญ",
+        "province_code": "15"
+    },
+    {
+        "district_code": "1507",
+        "district": "สามโก้",
+        "province_code": "15"
+    },
+    {
+        "district_code": "1601",
+        "district": "เมืองลพบุรี",
+        "province_code": "16"
+    },
+    {
+        "district_code": "1602",
+        "district": "พัฒนานิคม",
+        "province_code": "16"
+    },
+    {
+        "district_code": "1603",
+        "district": "โคกสำโรง",
+        "province_code": "16"
+    },
+    {
+        "district_code": "1604",
+        "district": "ชัยบาดาล",
+        "province_code": "16"
+    },
+    {
+        "district_code": "1605",
+        "district": "ท่าวุ้ง",
+        "province_code": "16"
+    },
+    {
+        "district_code": "1606",
+        "district": "บ้านหมี่",
+        "province_code": "16"
+    },
+    {
+        "district_code": "1607",
+        "district": "ท่าหลวง",
+        "province_code": "16"
+    },
+    {
+        "district_code": "1608",
+        "district": "สระโบสถ์",
+        "province_code": "16"
+    },
+    {
+        "district_code": "1609",
+        "district": "โคกเจริญ",
+        "province_code": "16"
+    },
+    {
+        "district_code": "1610",
+        "district": "ลำสนธิ",
+        "province_code": "16"
+    },
+    {
+        "district_code": "1611",
+        "district": "หนองม่วง",
+        "province_code": "16"
+    },
+    {
+        "district_code": "1701",
+        "district": "เมืองสิงห์บุรี",
+        "province_code": "17"
+    },
+    {
+        "district_code": "1702",
+        "district": "บางระจัน",
+        "province_code": "17"
+    },
+    {
+        "district_code": "1703",
+        "district": "ค่ายบางระจัน",
+        "province_code": "17"
+    },
+    {
+        "district_code": "1704",
+        "district": "พรหมบุรี",
+        "province_code": "17"
+    },
+    {
+        "district_code": "1705",
+        "district": "ท่าช้าง",
+        "province_code": "17"
+    },
+    {
+        "district_code": "1706",
+        "district": "อินทร์บุรี",
+        "province_code": "17"
+    },
+    {
+        "district_code": "1801",
+        "district": "เมืองชัยนาท",
+        "province_code": "18"
+    },
+    {
+        "district_code": "1802",
+        "district": "มโนรมย์",
+        "province_code": "18"
+    },
+    {
+        "district_code": "1803",
+        "district": "วัดสิงห์",
+        "province_code": "18"
+    },
+    {
+        "district_code": "1804",
+        "district": "สรรพยา",
+        "province_code": "18"
+    },
+    {
+        "district_code": "1805",
+        "district": "สรรคบุรี",
+        "province_code": "18"
+    },
+    {
+        "district_code": "1806",
+        "district": "หันคา",
+        "province_code": "18"
+    },
+    {
+        "district_code": "1807",
+        "district": "หนองมะโมง",
+        "province_code": "18"
+    },
+    {
+        "district_code": "1808",
+        "district": "เนินขาม",
+        "province_code": "18"
+    },
+    {
+        "district_code": "1901",
+        "district": "เมืองสระบุรี",
+        "province_code": "19"
+    },
+    {
+        "district_code": "1902",
+        "district": "แก่งคอย",
+        "province_code": "19"
+    },
+    {
+        "district_code": "1903",
+        "district": "หนองแค",
+        "province_code": "19"
+    },
+    {
+        "district_code": "1904",
+        "district": "วิหารแดง",
+        "province_code": "19"
+    },
+    {
+        "district_code": "1905",
+        "district": "หนองแซง",
+        "province_code": "19"
+    },
+    {
+        "district_code": "1906",
+        "district": "บ้านหมอ",
+        "province_code": "19"
+    },
+    {
+        "district_code": "1907",
+        "district": "ดอนพุด",
+        "province_code": "19"
+    },
+    {
+        "district_code": "1908",
+        "district": "หนองโดน",
+        "province_code": "19"
+    },
+    {
+        "district_code": "1909",
+        "district": "พระพุทธบาท",
+        "province_code": "19"
+    },
+    {
+        "district_code": "1910",
+        "district": "เสาไห้",
+        "province_code": "19"
+    },
+    {
+        "district_code": "1911",
+        "district": "มวกเหล็ก",
+        "province_code": "19"
+    },
+    {
+        "district_code": "1912",
+        "district": "วังม่วง",
+        "province_code": "19"
+    },
+    {
+        "district_code": "1913",
+        "district": "เฉลิมพระเกียรติ",
+        "province_code": "19"
+    },
+    {
+        "district_code": "2001",
+        "district": "เมืองชลบุรี",
+        "province_code": "20"
+    },
+    {
+        "district_code": "2002",
+        "district": "บ้านบึง",
+        "province_code": "20"
+    },
+    {
+        "district_code": "2003",
+        "district": "หนองใหญ่",
+        "province_code": "20"
+    },
+    {
+        "district_code": "2004",
+        "district": "บางละมุง",
+        "province_code": "20"
+    },
+    {
+        "district_code": "2005",
+        "district": "พานทอง",
+        "province_code": "20"
+    },
+    {
+        "district_code": "2006",
+        "district": "พนัสนิคม",
+        "province_code": "20"
+    },
+    {
+        "district_code": "2007",
+        "district": "ศรีราชา",
+        "province_code": "20"
+    },
+    {
+        "district_code": "2008",
+        "district": "เกาะสีชัง",
+        "province_code": "20"
+    },
+    {
+        "district_code": "2009",
+        "district": "สัตหีบ",
+        "province_code": "20"
+    },
+    {
+        "district_code": "2010",
+        "district": "บ่อทอง",
+        "province_code": "20"
+    },
+    {
+        "district_code": "2011",
+        "district": "เกาะจันทร์",
+        "province_code": "20"
+    },
+    {
+        "district_code": "2101",
+        "district": "เมืองระยอง",
+        "province_code": "21"
+    },
+    {
+        "district_code": "2102",
+        "district": "บ้านฉาง",
+        "province_code": "21"
+    },
+    {
+        "district_code": "2103",
+        "district": "แกลง",
+        "province_code": "21"
+    },
+    {
+        "district_code": "2104",
+        "district": "วังจันทร์",
+        "province_code": "21"
+    },
+    {
+        "district_code": "2105",
+        "district": "บ้านค่าย",
+        "province_code": "21"
+    },
+    {
+        "district_code": "2106",
+        "district": "ปลวกแดง",
+        "province_code": "21"
+    },
+    {
+        "district_code": "2107",
+        "district": "เขาชะเมา",
+        "province_code": "21"
+    },
+    {
+        "district_code": "2108",
+        "district": "นิคมพัฒนา",
+        "province_code": "21"
+    },
+    {
+        "district_code": "2201",
+        "district": "เมืองจันทบุรี",
+        "province_code": "22"
+    },
+    {
+        "district_code": "2202",
+        "district": "ขลุง",
+        "province_code": "22"
+    },
+    {
+        "district_code": "2203",
+        "district": "ท่าใหม่",
+        "province_code": "22"
+    },
+    {
+        "district_code": "2204",
+        "district": "โป่งน้ำร้อน",
+        "province_code": "22"
+    },
+    {
+        "district_code": "2205",
+        "district": "มะขาม",
+        "province_code": "22"
+    },
+    {
+        "district_code": "2206",
+        "district": "แหลมสิงห์",
+        "province_code": "22"
+    },
+    {
+        "district_code": "2207",
+        "district": "สอยดาว",
+        "province_code": "22"
+    },
+    {
+        "district_code": "2208",
+        "district": "แก่งหางแมว",
+        "province_code": "22"
+    },
+    {
+        "district_code": "2209",
+        "district": "นายายอาม",
+        "province_code": "22"
+    },
+    {
+        "district_code": "2210",
+        "district": "เขาคิชฌกูฏ",
+        "province_code": "22"
+    },
+    {
+        "district_code": "2301",
+        "district": "เมืองตราด",
+        "province_code": "23"
+    },
+    {
+        "district_code": "2302",
+        "district": "คลองใหญ่",
+        "province_code": "23"
+    },
+    {
+        "district_code": "2303",
+        "district": "เขาสมิง",
+        "province_code": "23"
+    },
+    {
+        "district_code": "2304",
+        "district": "บ่อไร่",
+        "province_code": "23"
+    },
+    {
+        "district_code": "2305",
+        "district": "แหลมงอบ",
+        "province_code": "23"
+    },
+    {
+        "district_code": "2306",
+        "district": "เกาะกูด",
+        "province_code": "23"
+    },
+    {
+        "district_code": "2307",
+        "district": "เกาะช้าง",
+        "province_code": "23"
+    },
+    {
+        "district_code": "2401",
+        "district": "เมืองฉะเชิงเทรา",
+        "province_code": "24"
+    },
+    {
+        "district_code": "2402",
+        "district": "บางคล้า",
+        "province_code": "24"
+    },
+    {
+        "district_code": "2403",
+        "district": "บางน้ำเปรี้ยว",
+        "province_code": "24"
+    },
+    {
+        "district_code": "2404",
+        "district": "บางปะกง",
+        "province_code": "24"
+    },
+    {
+        "district_code": "2405",
+        "district": "บ้านโพธิ์",
+        "province_code": "24"
+    },
+    {
+        "district_code": "2406",
+        "district": "พนมสารคาม",
+        "province_code": "24"
+    },
+    {
+        "district_code": "2407",
+        "district": "ราชสาส์น",
+        "province_code": "24"
+    },
+    {
+        "district_code": "2408",
+        "district": "สนามชัยเขต",
+        "province_code": "24"
+    },
+    {
+        "district_code": "2409",
+        "district": "แปลงยาว",
+        "province_code": "24"
+    },
+    {
+        "district_code": "2410",
+        "district": "ท่าตะเกียบ",
+        "province_code": "24"
+    },
+    {
+        "district_code": "2411",
+        "district": "คลองเขื่อน",
+        "province_code": "24"
+    },
+    {
+        "district_code": "2501",
+        "district": "เมืองปราจีนบุรี",
+        "province_code": "25"
+    },
+    {
+        "district_code": "2502",
+        "district": "กบินทร์บุรี",
+        "province_code": "25"
+    },
+    {
+        "district_code": "2503",
+        "district": "นาดี",
+        "province_code": "25"
+    },
+    {
+        "district_code": "2506",
+        "district": "บ้านสร้าง",
+        "province_code": "25"
+    },
+    {
+        "district_code": "2507",
+        "district": "ประจันตคาม",
+        "province_code": "25"
+    },
+    {
+        "district_code": "2508",
+        "district": "ศรีมหาโพธิ",
+        "province_code": "25"
+    },
+    {
+        "district_code": "2509",
+        "district": "ศรีมโหสถ",
+        "province_code": "25"
+    },
+    {
+        "district_code": "2601",
+        "district": "เมืองนครนายก",
+        "province_code": "26"
+    },
+    {
+        "district_code": "2602",
+        "district": "ปากพลี",
+        "province_code": "26"
+    },
+    {
+        "district_code": "2603",
+        "district": "บ้านนา",
+        "province_code": "26"
+    },
+    {
+        "district_code": "2604",
+        "district": "องครักษ์",
+        "province_code": "26"
+    },
+    {
+        "district_code": "2701",
+        "district": "เมืองสระแก้ว",
+        "province_code": "27"
+    },
+    {
+        "district_code": "2702",
+        "district": "คลองหาด",
+        "province_code": "27"
+    },
+    {
+        "district_code": "2703",
+        "district": "ตาพระยา",
+        "province_code": "27"
+    },
+    {
+        "district_code": "2704",
+        "district": "วังน้ำเย็น",
+        "province_code": "27"
+    },
+    {
+        "district_code": "2705",
+        "district": "วัฒนานคร",
+        "province_code": "27"
+    },
+    {
+        "district_code": "2706",
+        "district": "อรัญประเทศ",
+        "province_code": "27"
+    },
+    {
+        "district_code": "2707",
+        "district": "เขาฉกรรจ์",
+        "province_code": "27"
+    },
+    {
+        "district_code": "2708",
+        "district": "โคกสูง",
+        "province_code": "27"
+    },
+    {
+        "district_code": "2709",
+        "district": "วังสมบูรณ์",
+        "province_code": "27"
+    },
+    {
+        "district_code": "3001",
+        "district": "เมืองนครราชสีมา",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3002",
+        "district": "ครบุรี",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3003",
+        "district": "เสิงสาง",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3004",
+        "district": "คง",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3005",
+        "district": "บ้านเหลื่อม",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3006",
+        "district": "จักราช",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3007",
+        "district": "โชคชัย",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3008",
+        "district": "ด่านขุนทด",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3009",
+        "district": "โนนไทย",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3010",
+        "district": "โนนสูง",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3011",
+        "district": "ขามสะแกแสง",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3012",
+        "district": "บัวใหญ่",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3013",
+        "district": "ประทาย",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3014",
+        "district": "ปักธงชัย",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3015",
+        "district": "พิมาย",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3016",
+        "district": "ห้วยแถลง",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3017",
+        "district": "ชุมพวง",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3018",
+        "district": "สูงเนิน",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3019",
+        "district": "ขามทะเลสอ",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3020",
+        "district": "สีคิ้ว",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3021",
+        "district": "ปากช่อง",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3022",
+        "district": "หนองบุญมาก",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3023",
+        "district": "แก้งสนามนาง",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3024",
+        "district": "โนนแดง",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3025",
+        "district": "วังน้ำเขียว",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3026",
+        "district": "เทพารักษ์",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3027",
+        "district": "เมืองยาง",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3028",
+        "district": "พระทองคำ",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3029",
+        "district": "ลำทะเมนชัย",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3030",
+        "district": "บัวลาย",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3031",
+        "district": "สีดา",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3032",
+        "district": "เฉลิมพระเกียรติ",
+        "province_code": "30"
+    },
+    {
+        "district_code": "3101",
+        "district": "เมืองบุรีรัมย์",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3102",
+        "district": "คูเมือง",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3103",
+        "district": "กระสัง",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3104",
+        "district": "นางรอง",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3105",
+        "district": "หนองกี่",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3106",
+        "district": "ละหานทราย",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3107",
+        "district": "ประโคนชัย",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3108",
+        "district": "บ้านกรวด",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3109",
+        "district": "พุทไธสง",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3110",
+        "district": "ลำปลายมาศ",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3111",
+        "district": "สตึก",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3112",
+        "district": "ปะคำ",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3113",
+        "district": "นาโพธิ์",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3114",
+        "district": "หนองหงส์",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3115",
+        "district": "พลับพลาชัย",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3116",
+        "district": "ห้วยราช",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3117",
+        "district": "โนนสุวรรณ",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3118",
+        "district": "ชำนิ",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3119",
+        "district": "บ้านใหม่ไชยพจน์",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3120",
+        "district": "โนนดินแดง",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3121",
+        "district": "บ้านด่าน",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3122",
+        "district": "แคนดง",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3123",
+        "district": "เฉลิมพระเกียรติ",
+        "province_code": "31"
+    },
+    {
+        "district_code": "3201",
+        "district": "เมืองสุรินทร์",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3202",
+        "district": "ชุมพลบุรี",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3203",
+        "district": "ท่าตูม",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3204",
+        "district": "จอมพระ",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3205",
+        "district": "ปราสาท",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3206",
+        "district": "กาบเชิง",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3207",
+        "district": "รัตนบุรี",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3208",
+        "district": "สนม",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3209",
+        "district": "ศีขรภูมิ",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3210",
+        "district": "สังขะ",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3211",
+        "district": "ลำดวน",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3212",
+        "district": "สำโรงทาบ",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3213",
+        "district": "บัวเชด",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3214",
+        "district": "พนมดงรัก",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3215",
+        "district": "ศรีณรงค์",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3216",
+        "district": "เขวาสินรินทร์",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3217",
+        "district": "โนนนารายณ์",
+        "province_code": "32"
+    },
+    {
+        "district_code": "3301",
+        "district": "เมืองศรีสะเกษ",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3302",
+        "district": "ยางชุมน้อย",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3303",
+        "district": "กันทรารมย์",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3304",
+        "district": "กันทรลักษ์",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3305",
+        "district": "ขุขันธ์",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3306",
+        "district": "ไพรบึง",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3307",
+        "district": "ปรางค์กู่",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3308",
+        "district": "ขุนหาญ",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3309",
+        "district": "ราษีไศล",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3310",
+        "district": "อุทุมพรพิสัย",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3311",
+        "district": "บึงบูรพ์",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3312",
+        "district": "ห้วยทับทัน",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3313",
+        "district": "โนนคูณ",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3314",
+        "district": "ศรีรัตนะ",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3315",
+        "district": "น้ำเกลี้ยง",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3316",
+        "district": "วังหิน",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3317",
+        "district": "ภูสิงห์",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3318",
+        "district": "เมืองจันทร์",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3319",
+        "district": "เบญจลักษ์",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3320",
+        "district": "พยุห์",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3321",
+        "district": "โพธิ์ศรีสุวรรณ",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3322",
+        "district": "ศิลาลาด",
+        "province_code": "33"
+    },
+    {
+        "district_code": "3401",
+        "district": "เมืองอุบลราชธานี",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3402",
+        "district": "ศรีเมืองใหม่",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3403",
+        "district": "โขงเจียม",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3404",
+        "district": "เขื่องใน",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3405",
+        "district": "เขมราฐ",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3407",
+        "district": "เดชอุดม",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3408",
+        "district": "นาจะหลวย",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3409",
+        "district": "น้ำยืน",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3410",
+        "district": "บุณฑริก",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3411",
+        "district": "ตระการพืชผล",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3412",
+        "district": "กุดข้าวปุ้น",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3414",
+        "district": "ม่วงสามสิบ",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3415",
+        "district": "วารินชำราบ",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3419",
+        "district": "พิบูลมังสาหาร",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3420",
+        "district": "ตาลสุม",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3421",
+        "district": "โพธิ์ไทร",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3422",
+        "district": "สำโรง",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3424",
+        "district": "ดอนมดแดง",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3425",
+        "district": "สิรินธร",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3426",
+        "district": "ทุ่งศรีอุดม",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3429",
+        "district": "นาเยีย",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3430",
+        "district": "นาตาล",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3431",
+        "district": "เหล่าเสือโก้ก",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3432",
+        "district": "สว่างวีระวงศ์",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3433",
+        "district": "น้ำขุ่น",
+        "province_code": "34"
+    },
+    {
+        "district_code": "3501",
+        "district": "เมืองยโสธร",
+        "province_code": "35"
+    },
+    {
+        "district_code": "3502",
+        "district": "ทรายมูล",
+        "province_code": "35"
+    },
+    {
+        "district_code": "3503",
+        "district": "กุดชุม",
+        "province_code": "35"
+    },
+    {
+        "district_code": "3504",
+        "district": "คำเขื่อนแก้ว",
+        "province_code": "35"
+    },
+    {
+        "district_code": "3505",
+        "district": "ป่าติ้ว",
+        "province_code": "35"
+    },
+    {
+        "district_code": "3506",
+        "district": "มหาชนะชัย",
+        "province_code": "35"
+    },
+    {
+        "district_code": "3507",
+        "district": "ค้อวัง",
+        "province_code": "35"
+    },
+    {
+        "district_code": "3508",
+        "district": "เลิงนกทา",
+        "province_code": "35"
+    },
+    {
+        "district_code": "3509",
+        "district": "ไทยเจริญ",
+        "province_code": "35"
+    },
+    {
+        "district_code": "3601",
+        "district": "เมืองชัยภูมิ",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3602",
+        "district": "บ้านเขว้า",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3603",
+        "district": "คอนสวรรค์",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3604",
+        "district": "เกษตรสมบูรณ์",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3605",
+        "district": "หนองบัวแดง",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3606",
+        "district": "จัตุรัส",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3607",
+        "district": "บำเหน็จณรงค์",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3608",
+        "district": "หนองบัวระเหว",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3609",
+        "district": "เทพสถิต",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3610",
+        "district": "ภูเขียว",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3611",
+        "district": "บ้านแท่น",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3612",
+        "district": "แก้งคร้อ",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3613",
+        "district": "คอนสาร",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3614",
+        "district": "ภักดีชุมพล",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3615",
+        "district": "เนินสง่า",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3616",
+        "district": "ซับใหญ่",
+        "province_code": "36"
+    },
+    {
+        "district_code": "3701",
+        "district": "เมืองอำนาจเจริญ",
+        "province_code": "37"
+    },
+    {
+        "district_code": "3702",
+        "district": "ชานุมาน",
+        "province_code": "37"
+    },
+    {
+        "district_code": "3703",
+        "district": "ปทุมราชวงศา",
+        "province_code": "37"
+    },
+    {
+        "district_code": "3704",
+        "district": "พนา",
+        "province_code": "37"
+    },
+    {
+        "district_code": "3705",
+        "district": "เสนางคนิคม",
+        "province_code": "37"
+    },
+    {
+        "district_code": "3706",
+        "district": "หัวตะพาน",
+        "province_code": "37"
+    },
+    {
+        "district_code": "3707",
+        "district": "ลืออำนาจ",
+        "province_code": "37"
+    },
+    {
+        "district_code": "3801",
+        "district": "บึงกาฬ",
+        "province_code": "38"
+    },
+    {
+        "district_code": "3802",
+        "district": "พรเจริญ",
+        "province_code": "38"
+    },
+    {
+        "district_code": "3803",
+        "district": "โซ่พิสัย",
+        "province_code": "38"
+    },
+    {
+        "district_code": "3804",
+        "district": "เซกา",
+        "province_code": "38"
+    },
+    {
+        "district_code": "3805",
+        "district": "ปากคาด",
+        "province_code": "38"
+    },
+    {
+        "district_code": "3806",
+        "district": "บึงโขงหลง",
+        "province_code": "38"
+    },
+    {
+        "district_code": "3807",
+        "district": "ศรีวิไล",
+        "province_code": "38"
+    },
+    {
+        "district_code": "3808",
+        "district": "บุ่งคล้า",
+        "province_code": "38"
+    },
+    {
+        "district_code": "3901",
+        "district": "เมืองหนองบัวลำภู",
+        "province_code": "39"
+    },
+    {
+        "district_code": "3902",
+        "district": "นากลาง",
+        "province_code": "39"
+    },
+    {
+        "district_code": "3903",
+        "district": "โนนสัง",
+        "province_code": "39"
+    },
+    {
+        "district_code": "3904",
+        "district": "ศรีบุญเรือง",
+        "province_code": "39"
+    },
+    {
+        "district_code": "3905",
+        "district": "สุวรรณคูหา",
+        "province_code": "39"
+    },
+    {
+        "district_code": "3906",
+        "district": "นาวัง",
+        "province_code": "39"
+    },
+    {
+        "district_code": "4001",
+        "district": "เมืองขอนแก่น",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4002",
+        "district": "บ้านฝาง",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4003",
+        "district": "พระยืน",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4004",
+        "district": "หนองเรือ",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4005",
+        "district": "ชุมแพ",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4006",
+        "district": "สีชมพู",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4007",
+        "district": "น้ำพอง",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4008",
+        "district": "อุบลรัตน์",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4009",
+        "district": "กระนวน",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4010",
+        "district": "บ้านไผ่",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4011",
+        "district": "เปือยน้อย",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4012",
+        "district": "พล",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4013",
+        "district": "แวงใหญ่",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4014",
+        "district": "แวงน้อย",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4015",
+        "district": "หนองสองห้อง",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4016",
+        "district": "ภูเวียง",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4017",
+        "district": "มัญจาคีรี",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4018",
+        "district": "ชนบท",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4019",
+        "district": "เขาสวนกวาง",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4020",
+        "district": "ภูผาม่าน",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4021",
+        "district": "ซำสูง",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4022",
+        "district": "โคกโพธิ์ไชย",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4023",
+        "district": "หนองนาคำ",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4024",
+        "district": "บ้านแฮด",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4025",
+        "district": "โนนศิลา",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4026",
+        "district": "เวียงเก่า",
+        "province_code": "40"
+    },
+    {
+        "district_code": "4101",
+        "district": "เมืองอุดรธานี",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4102",
+        "district": "กุดจับ",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4103",
+        "district": "หนองวัวซอ",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4104",
+        "district": "กุมภวาปี",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4105",
+        "district": "โนนสะอาด",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4106",
+        "district": "หนองหาน",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4107",
+        "district": "ทุ่งฝน",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4108",
+        "district": "ไชยวาน",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4109",
+        "district": "ศรีธาตุ",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4110",
+        "district": "วังสามหมอ",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4111",
+        "district": "บ้านดุง",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4117",
+        "district": "บ้านผือ",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4118",
+        "district": "น้ำโสม",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4119",
+        "district": "เพ็ญ",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4120",
+        "district": "สร้างคอม",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4121",
+        "district": "หนองแสง",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4122",
+        "district": "นายูง",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4123",
+        "district": "พิบูลย์รักษ์",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4124",
+        "district": "กู่แก้ว",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4125",
+        "district": "ประจักษ์ศิลปาคม",
+        "province_code": "41"
+    },
+    {
+        "district_code": "4201",
+        "district": "เมืองเลย",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4202",
+        "district": "นาด้วง",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4203",
+        "district": "เชียงคาน",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4204",
+        "district": "ปากชม",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4205",
+        "district": "ด่านซ้าย",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4206",
+        "district": "นาแห้ว",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4207",
+        "district": "ภูเรือ",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4208",
+        "district": "ท่าลี่",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4209",
+        "district": "วังสะพุง",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4210",
+        "district": "ภูกระดึง",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4211",
+        "district": "ภูหลวง",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4212",
+        "district": "ผาขาว",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4213",
+        "district": "เอราวัณ",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4214",
+        "district": "หนองหิน",
+        "province_code": "42"
+    },
+    {
+        "district_code": "4301",
+        "district": "เมืองหนองคาย",
+        "province_code": "43"
+    },
+    {
+        "district_code": "4302",
+        "district": "ท่าบ่อ",
+        "province_code": "43"
+    },
+    {
+        "district_code": "4305",
+        "district": "โพนพิสัย",
+        "province_code": "43"
+    },
+    {
+        "district_code": "4307",
+        "district": "ศรีเชียงใหม่",
+        "province_code": "43"
+    },
+    {
+        "district_code": "4308",
+        "district": "สังคม",
+        "province_code": "43"
+    },
+    {
+        "district_code": "4314",
+        "district": "สระใคร",
+        "province_code": "43"
+    },
+    {
+        "district_code": "4315",
+        "district": "เฝ้าไร่",
+        "province_code": "43"
+    },
+    {
+        "district_code": "4316",
+        "district": "รัตนวาปี",
+        "province_code": "43"
+    },
+    {
+        "district_code": "4317",
+        "district": "โพธิ์ตาก",
+        "province_code": "43"
+    },
+    {
+        "district_code": "4401",
+        "district": "เมืองมหาสารคาม",
+        "province_code": "44"
+    },
+    {
+        "district_code": "4402",
+        "district": "แกดำ",
+        "province_code": "44"
+    },
+    {
+        "district_code": "4403",
+        "district": "โกสุมพิสัย",
+        "province_code": "44"
+    },
+    {
+        "district_code": "4404",
+        "district": "กันทรวิชัย",
+        "province_code": "44"
+    },
+    {
+        "district_code": "4405",
+        "district": "เชียงยืน",
+        "province_code": "44"
+    },
+    {
+        "district_code": "4406",
+        "district": "บรบือ",
+        "province_code": "44"
+    },
+    {
+        "district_code": "4407",
+        "district": "นาเชือก",
+        "province_code": "44"
+    },
+    {
+        "district_code": "4408",
+        "district": "พยัคฆภูมิพิสัย",
+        "province_code": "44"
+    },
+    {
+        "district_code": "4409",
+        "district": "วาปีปทุม",
+        "province_code": "44"
+    },
+    {
+        "district_code": "4410",
+        "district": "นาดูน",
+        "province_code": "44"
+    },
+    {
+        "district_code": "4411",
+        "district": "ยางสีสุราช",
+        "province_code": "44"
+    },
+    {
+        "district_code": "4412",
+        "district": "กุดรัง",
+        "province_code": "44"
+    },
+    {
+        "district_code": "4413",
+        "district": "ชื่นชม",
+        "province_code": "44"
+    },
+    {
+        "district_code": "4501",
+        "district": "เมืองร้อยเอ็ด",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4502",
+        "district": "เกษตรวิสัย",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4503",
+        "district": "ปทุมรัตต์",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4504",
+        "district": "จตุรพักตรพิมาน",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4505",
+        "district": "ธวัชบุรี",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4506",
+        "district": "พนมไพร",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4507",
+        "district": "โพนทอง",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4508",
+        "district": "โพธิ์ชัย",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4509",
+        "district": "หนองพอก",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4510",
+        "district": "เสลภูมิ",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4511",
+        "district": "สุวรรณภูมิ",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4512",
+        "district": "เมืองสรวง",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4513",
+        "district": "โพนทราย",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4514",
+        "district": "อาจสามารถ",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4515",
+        "district": "เมยวดี",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4516",
+        "district": "ศรีสมเด็จ",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4517",
+        "district": "จังหาร",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4518",
+        "district": "เชียงขวัญ",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4519",
+        "district": "หนองฮี",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4520",
+        "district": "ทุ่งเขาหลวง",
+        "province_code": "45"
+    },
+    {
+        "district_code": "4601",
+        "district": "เมืองกาฬสินธุ์",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4602",
+        "district": "นามน",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4603",
+        "district": "กมลาไสย",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4604",
+        "district": "ร่องคำ",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4605",
+        "district": "กุฉินารายณ์",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4606",
+        "district": "เขาวง",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4607",
+        "district": "ยางตลาด",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4608",
+        "district": "ห้วยเม็ก",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4609",
+        "district": "สหัสขันธ์",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4610",
+        "district": "คำม่วง",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4611",
+        "district": "ท่าคันโท",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4612",
+        "district": "หนองกุงศรี",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4613",
+        "district": "สมเด็จ",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4614",
+        "district": "ห้วยผึ้ง",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4615",
+        "district": "สามชัย",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4616",
+        "district": "นาคู",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4617",
+        "district": "ดอนจาน",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4618",
+        "district": "ฆ้องชัย",
+        "province_code": "46"
+    },
+    {
+        "district_code": "4701",
+        "district": "เมืองสกลนคร",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4702",
+        "district": "กุสุมาลย์",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4703",
+        "district": "กุดบาก",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4704",
+        "district": "พรรณานิคม",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4705",
+        "district": "พังโคน",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4706",
+        "district": "วาริชภูมิ",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4707",
+        "district": "นิคมน้ำอูน",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4708",
+        "district": "วานรนิวาส",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4709",
+        "district": "คำตากล้า",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4710",
+        "district": "บ้านม่วง",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4711",
+        "district": "อากาศอำนวย",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4712",
+        "district": "สว่างแดนดิน",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4713",
+        "district": "ส่องดาว",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4714",
+        "district": "เต่างอย",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4715",
+        "district": "โคกศรีสุพรรณ",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4716",
+        "district": "เจริญศิลป์",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4717",
+        "district": "โพนนาแก้ว",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4718",
+        "district": "ภูพาน",
+        "province_code": "47"
+    },
+    {
+        "district_code": "4801",
+        "district": "เมืองนครพนม",
+        "province_code": "48"
+    },
+    {
+        "district_code": "4802",
+        "district": "ปลาปาก",
+        "province_code": "48"
+    },
+    {
+        "district_code": "4803",
+        "district": "ท่าอุเทน",
+        "province_code": "48"
+    },
+    {
+        "district_code": "4804",
+        "district": "บ้านแพง",
+        "province_code": "48"
+    },
+    {
+        "district_code": "4805",
+        "district": "ธาตุพนม",
+        "province_code": "48"
+    },
+    {
+        "district_code": "4806",
+        "district": "เรณูนคร",
+        "province_code": "48"
+    },
+    {
+        "district_code": "4807",
+        "district": "นาแก",
+        "province_code": "48"
+    },
+    {
+        "district_code": "4808",
+        "district": "ศรีสงคราม",
+        "province_code": "48"
+    },
+    {
+        "district_code": "4809",
+        "district": "นาหว้า",
+        "province_code": "48"
+    },
+    {
+        "district_code": "4810",
+        "district": "โพนสวรรค์",
+        "province_code": "48"
+    },
+    {
+        "district_code": "4811",
+        "district": "นาทม",
+        "province_code": "48"
+    },
+    {
+        "district_code": "4812",
+        "district": "วังยาง",
+        "province_code": "48"
+    },
+    {
+        "district_code": "4901",
+        "district": "เมืองมุกดาหาร",
+        "province_code": "49"
+    },
+    {
+        "district_code": "4902",
+        "district": "นิคมคำสร้อย",
+        "province_code": "49"
+    },
+    {
+        "district_code": "4903",
+        "district": "ดอนตาล",
+        "province_code": "49"
+    },
+    {
+        "district_code": "4904",
+        "district": "ดงหลวง",
+        "province_code": "49"
+    },
+    {
+        "district_code": "4905",
+        "district": "คำชะอี",
+        "province_code": "49"
+    },
+    {
+        "district_code": "4906",
+        "district": "ว่านใหญ่",
+        "province_code": "49"
+    },
+    {
+        "district_code": "4907",
+        "district": "หนองสูง",
+        "province_code": "49"
+    },
+    {
+        "district_code": "5001",
+        "district": "เมืองเชียงใหม่",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5002",
+        "district": "จอมทอง",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5003",
+        "district": "แม่แจ่ม",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5004",
+        "district": "เชียงดาว",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5005",
+        "district": "ดอยสะเก็ด",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5006",
+        "district": "แม่แตง",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5007",
+        "district": "แม่ริม",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5008",
+        "district": "สะเมิง",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5009",
+        "district": "ฝาง",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5010",
+        "district": "แม่อาย",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5011",
+        "district": "พร้าว",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5012",
+        "district": "สันป่าตอง",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5013",
+        "district": "สันกำแพง",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5014",
+        "district": "สันทราย",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5015",
+        "district": "หางดง",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5016",
+        "district": "ฮอด",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5017",
+        "district": "ดอยเต่า",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5018",
+        "district": "อมก๋อย",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5019",
+        "district": "สารภี",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5020",
+        "district": "เวียงแหง",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5021",
+        "district": "ไชยปราการ",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5022",
+        "district": "แม่วาง",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5023",
+        "district": "แม่ออน",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5024",
+        "district": "ดอยหล่อ",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5025",
+        "district": "กัลยาณิวัฒนา",
+        "province_code": "50"
+    },
+    {
+        "district_code": "5101",
+        "district": "เมืองลำพูน",
+        "province_code": "51"
+    },
+    {
+        "district_code": "5102",
+        "district": "แม่ทา",
+        "province_code": "51"
+    },
+    {
+        "district_code": "5103",
+        "district": "บ้านโฮ่ง",
+        "province_code": "51"
+    },
+    {
+        "district_code": "5104",
+        "district": "ลี้",
+        "province_code": "51"
+    },
+    {
+        "district_code": "5105",
+        "district": "ทุ่งหัวช้าง",
+        "province_code": "51"
+    },
+    {
+        "district_code": "5106",
+        "district": "ป่าซาง",
+        "province_code": "51"
+    },
+    {
+        "district_code": "5107",
+        "district": "บ้านธิ",
+        "province_code": "51"
+    },
+    {
+        "district_code": "5108",
+        "district": "เวียงหนองล่อง",
+        "province_code": "51"
+    },
+    {
+        "district_code": "5201",
+        "district": "เมืองลำปาง",
+        "province_code": "52"
+    },
+    {
+        "district_code": "5202",
+        "district": "แม่เมาะ",
+        "province_code": "52"
+    },
+    {
+        "district_code": "5203",
+        "district": "เกาะคา",
+        "province_code": "52"
+    },
+    {
+        "district_code": "5204",
+        "district": "เสริมงาม",
+        "province_code": "52"
+    },
+    {
+        "district_code": "5205",
+        "district": "งาว",
+        "province_code": "52"
+    },
+    {
+        "district_code": "5206",
+        "district": "แจ้ห่ม",
+        "province_code": "52"
+    },
+    {
+        "district_code": "5207",
+        "district": "วังเหนือ",
+        "province_code": "52"
+    },
+    {
+        "district_code": "5208",
+        "district": "เถิน",
+        "province_code": "52"
+    },
+    {
+        "district_code": "5209",
+        "district": "แม่พริก",
+        "province_code": "52"
+    },
+    {
+        "district_code": "5210",
+        "district": "แม่ทะ",
+        "province_code": "52"
+    },
+    {
+        "district_code": "5211",
+        "district": "สบปราบ",
+        "province_code": "52"
+    },
+    {
+        "district_code": "5212",
+        "district": "ห้างฉัตร",
+        "province_code": "52"
+    },
+    {
+        "district_code": "5213",
+        "district": "เมืองปาน",
+        "province_code": "52"
+    },
+    {
+        "district_code": "5301",
+        "district": "เมืองอุตรดิตถ์",
+        "province_code": "53"
+    },
+    {
+        "district_code": "5302",
+        "district": "ตรอน",
+        "province_code": "53"
+    },
+    {
+        "district_code": "5303",
+        "district": "ท่าปลา",
+        "province_code": "53"
+    },
+    {
+        "district_code": "5304",
+        "district": "น้ำปาด",
+        "province_code": "53"
+    },
+    {
+        "district_code": "5305",
+        "district": "ฟากท่า",
+        "province_code": "53"
+    },
+    {
+        "district_code": "5306",
+        "district": "บ้านโคก",
+        "province_code": "53"
+    },
+    {
+        "district_code": "5307",
+        "district": "พิชัย",
+        "province_code": "53"
+    },
+    {
+        "district_code": "5308",
+        "district": "ลับแล",
+        "province_code": "53"
+    },
+    {
+        "district_code": "5309",
+        "district": "ทองแสนขัน",
+        "province_code": "53"
+    },
+    {
+        "district_code": "5401",
+        "district": "เมืองแพร่",
+        "province_code": "54"
+    },
+    {
+        "district_code": "5402",
+        "district": "ร้องกวาง",
+        "province_code": "54"
+    },
+    {
+        "district_code": "5403",
+        "district": "ลอง",
+        "province_code": "54"
+    },
+    {
+        "district_code": "5404",
+        "district": "สูงเม่น",
+        "province_code": "54"
+    },
+    {
+        "district_code": "5405",
+        "district": "เด่นชัย",
+        "province_code": "54"
+    },
+    {
+        "district_code": "5406",
+        "district": "สอง",
+        "province_code": "54"
+    },
+    {
+        "district_code": "5407",
+        "district": "วังชิ้น",
+        "province_code": "54"
+    },
+    {
+        "district_code": "5408",
+        "district": "หนองม่วงไข่",
+        "province_code": "54"
+    },
+    {
+        "district_code": "5501",
+        "district": "เมืองน่าน",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5502",
+        "district": "แม่จริม",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5503",
+        "district": "บ้านหลวง",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5504",
+        "district": "นาน้อย",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5505",
+        "district": "ปัว",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5506",
+        "district": "ท่าวังผา",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5507",
+        "district": "เวียงสา",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5508",
+        "district": "ทุ่งช้าง",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5509",
+        "district": "เชียงกลาง",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5510",
+        "district": "นาหมื่น",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5511",
+        "district": "สันติสุข",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5512",
+        "district": "บ่อเกลือ",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5513",
+        "district": "สองแคว",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5514",
+        "district": "ภูเพียง",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5515",
+        "district": "เฉลิมพระเกียรติ",
+        "province_code": "55"
+    },
+    {
+        "district_code": "5601",
+        "district": "เมืองพะเยา",
+        "province_code": "56"
+    },
+    {
+        "district_code": "5602",
+        "district": "จุน",
+        "province_code": "56"
+    },
+    {
+        "district_code": "5603",
+        "district": "เชียงคำ",
+        "province_code": "56"
+    },
+    {
+        "district_code": "5604",
+        "district": "เชียงม่วน",
+        "province_code": "56"
+    },
+    {
+        "district_code": "5605",
+        "district": "ดอกคำใต้",
+        "province_code": "56"
+    },
+    {
+        "district_code": "5606",
+        "district": "ปง",
+        "province_code": "56"
+    },
+    {
+        "district_code": "5607",
+        "district": "แม่ใจ",
+        "province_code": "56"
+    },
+    {
+        "district_code": "5608",
+        "district": "ภูซาง",
+        "province_code": "56"
+    },
+    {
+        "district_code": "5609",
+        "district": "ภูกามยาว",
+        "province_code": "56"
+    },
+    {
+        "district_code": "5701",
+        "district": "เมืองเชียงราย",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5702",
+        "district": "เวียงชัย",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5703",
+        "district": "เชียงของ",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5704",
+        "district": "เทิง",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5705",
+        "district": "พาน",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5706",
+        "district": "ป่าแดด",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5707",
+        "district": "แม่จัน",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5708",
+        "district": "เชียงแสน",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5709",
+        "district": "แม่สาย",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5710",
+        "district": "แม่สรวย",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5711",
+        "district": "เวียงป่าเป้า",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5712",
+        "district": "พญาเม็งราย",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5713",
+        "district": "เวียงแก่น",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5714",
+        "district": "ขุนตาล",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5715",
+        "district": "แม่ฟ้าหลวง",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5716",
+        "district": "แม่ลาว",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5717",
+        "district": "เวียงเชียงรุ้ง",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5718",
+        "district": "ดอยหลวง",
+        "province_code": "57"
+    },
+    {
+        "district_code": "5801",
+        "district": "เมืองแม่ฮ่องสอน",
+        "province_code": "58"
+    },
+    {
+        "district_code": "5802",
+        "district": "ขุนยวม",
+        "province_code": "58"
+    },
+    {
+        "district_code": "5803",
+        "district": "ปาย",
+        "province_code": "58"
+    },
+    {
+        "district_code": "5804",
+        "district": "แม่สะเรียง",
+        "province_code": "58"
+    },
+    {
+        "district_code": "5805",
+        "district": "แม่ลาน้อย",
+        "province_code": "58"
+    },
+    {
+        "district_code": "5806",
+        "district": "สบเมย",
+        "province_code": "58"
+    },
+    {
+        "district_code": "5807",
+        "district": "ปางมะผ้า",
+        "province_code": "58"
+    },
+    {
+        "district_code": "6001",
+        "district": "เมืองนครสวรรค์",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6002",
+        "district": "โกรกพระ",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6003",
+        "district": "ชุมแสง",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6004",
+        "district": "หนองบัว",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6005",
+        "district": "บรรพตพิสัย",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6006",
+        "district": "เก้าเลี้ยว",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6007",
+        "district": "ตาคลี",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6008",
+        "district": "ท่าตะโก",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6009",
+        "district": "ไพศาลี",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6010",
+        "district": "พยุหะคีรี",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6011",
+        "district": "ลาดยาว",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6012",
+        "district": "ตากฟ้า",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6013",
+        "district": "แม่วงก์",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6014",
+        "district": "แม่เปิน",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6015",
+        "district": "ชุมตาบง",
+        "province_code": "60"
+    },
+    {
+        "district_code": "6101",
+        "district": "เมืองอุทัยธานี",
+        "province_code": "61"
+    },
+    {
+        "district_code": "6102",
+        "district": "ทัพทัน",
+        "province_code": "61"
+    },
+    {
+        "district_code": "6103",
+        "district": "สว่างอารมณ์",
+        "province_code": "61"
+    },
+    {
+        "district_code": "6104",
+        "district": "หนองฉาง",
+        "province_code": "61"
+    },
+    {
+        "district_code": "6105",
+        "district": "หนองขาหย่าง",
+        "province_code": "61"
+    },
+    {
+        "district_code": "6106",
+        "district": "บ้านไร่",
+        "province_code": "61"
+    },
+    {
+        "district_code": "6107",
+        "district": "ลานสัก",
+        "province_code": "61"
+    },
+    {
+        "district_code": "6108",
+        "district": "ห้วยคต",
+        "province_code": "61"
+    },
+    {
+        "district_code": "6201",
+        "district": "เมืองกำแพงเพชร",
+        "province_code": "62"
+    },
+    {
+        "district_code": "6202",
+        "district": "ไทรงาม",
+        "province_code": "62"
+    },
+    {
+        "district_code": "6203",
+        "district": "คลองลาน",
+        "province_code": "62"
+    },
+    {
+        "district_code": "6204",
+        "district": "ขาณุวรลักษบุรี",
+        "province_code": "62"
+    },
+    {
+        "district_code": "6205",
+        "district": "คลองขลุง",
+        "province_code": "62"
+    },
+    {
+        "district_code": "6206",
+        "district": "พรานกระต่าย",
+        "province_code": "62"
+    },
+    {
+        "district_code": "6207",
+        "district": "ลานกระบือ",
+        "province_code": "62"
+    },
+    {
+        "district_code": "6208",
+        "district": "ทรายทองวัฒนา",
+        "province_code": "62"
+    },
+    {
+        "district_code": "6209",
+        "district": "ปางศิลาทอง",
+        "province_code": "62"
+    },
+    {
+        "district_code": "6210",
+        "district": "บึงสามัคคี",
+        "province_code": "62"
+    },
+    {
+        "district_code": "6211",
+        "district": "โกสัมพีนคร",
+        "province_code": "62"
+    },
+    {
+        "district_code": "6301",
+        "district": "เมืองตาก",
+        "province_code": "63"
+    },
+    {
+        "district_code": "6302",
+        "district": "บ้านตาก",
+        "province_code": "63"
+    },
+    {
+        "district_code": "6303",
+        "district": "สามเงา",
+        "province_code": "63"
+    },
+    {
+        "district_code": "6304",
+        "district": "แม่ระมาด",
+        "province_code": "63"
+    },
+    {
+        "district_code": "6305",
+        "district": "ท่าสองยาง",
+        "province_code": "63"
+    },
+    {
+        "district_code": "6306",
+        "district": "แม่สอด",
+        "province_code": "63"
+    },
+    {
+        "district_code": "6307",
+        "district": "พบพระ",
+        "province_code": "63"
+    },
+    {
+        "district_code": "6308",
+        "district": "อุ้มผาง",
+        "province_code": "63"
+    },
+    {
+        "district_code": "6309",
+        "district": "วังเจ้า",
+        "province_code": "63"
+    },
+    {
+        "district_code": "6401",
+        "district": "เมืองสุโขทัย",
+        "province_code": "64"
+    },
+    {
+        "district_code": "6402",
+        "district": "บ้านด่านลานหอย",
+        "province_code": "64"
+    },
+    {
+        "district_code": "6403",
+        "district": "คีรีมาศ",
+        "province_code": "64"
+    },
+    {
+        "district_code": "6404",
+        "district": "กงไกรลาศ",
+        "province_code": "64"
+    },
+    {
+        "district_code": "6405",
+        "district": "ศรีสัชนาลัย",
+        "province_code": "64"
+    },
+    {
+        "district_code": "6406",
+        "district": "ศรีสำโรง",
+        "province_code": "64"
+    },
+    {
+        "district_code": "6407",
+        "district": "สวรรคโลก",
+        "province_code": "64"
+    },
+    {
+        "district_code": "6408",
+        "district": "ศรีนคร",
+        "province_code": "64"
+    },
+    {
+        "district_code": "6409",
+        "district": "ทุ่งเสลี่ยม",
+        "province_code": "64"
+    },
+    {
+        "district_code": "6501",
+        "district": "เมืองพิษณุโลก",
+        "province_code": "65"
+    },
+    {
+        "district_code": "6502",
+        "district": "นครไทย",
+        "province_code": "65"
+    },
+    {
+        "district_code": "6503",
+        "district": "ชาติตระการ",
+        "province_code": "65"
+    },
+    {
+        "district_code": "6504",
+        "district": "บางระกำ",
+        "province_code": "65"
+    },
+    {
+        "district_code": "6505",
+        "district": "บางกระทุ่ม",
+        "province_code": "65"
+    },
+    {
+        "district_code": "6506",
+        "district": "พรหมพิราม",
+        "province_code": "65"
+    },
+    {
+        "district_code": "6507",
+        "district": "วัดโบสถ์",
+        "province_code": "65"
+    },
+    {
+        "district_code": "6508",
+        "district": "วังทอง",
+        "province_code": "65"
+    },
+    {
+        "district_code": "6509",
+        "district": "เนินมะปราง",
+        "province_code": "65"
+    },
+    {
+        "district_code": "6601",
+        "district": "เมืองพิจิตร",
+        "province_code": "66"
+    },
+    {
+        "district_code": "6602",
+        "district": "วังทรายพูน",
+        "province_code": "66"
+    },
+    {
+        "district_code": "6603",
+        "district": "โพธิ์ประทับช้าง",
+        "province_code": "66"
+    },
+    {
+        "district_code": "6604",
+        "district": "ตะพานหิน",
+        "province_code": "66"
+    },
+    {
+        "district_code": "6605",
+        "district": "บางมูลนาก",
+        "province_code": "66"
+    },
+    {
+        "district_code": "6606",
+        "district": "โพทะเล",
+        "province_code": "66"
+    },
+    {
+        "district_code": "6607",
+        "district": "สามง่าม",
+        "province_code": "66"
+    },
+    {
+        "district_code": "6608",
+        "district": "ทับคล้อ",
+        "province_code": "66"
+    },
+    {
+        "district_code": "6609",
+        "district": "สากเหล็ก",
+        "province_code": "66"
+    },
+    {
+        "district_code": "6610",
+        "district": "บึงนาราง",
+        "province_code": "66"
+    },
+    {
+        "district_code": "6611",
+        "district": "ดงเจริญ",
+        "province_code": "66"
+    },
+    {
+        "district_code": "6612",
+        "district": "วชิรบารมี",
+        "province_code": "66"
+    },
+    {
+        "district_code": "6701",
+        "district": "เมืองเพชรบูรณ์",
+        "province_code": "67"
+    },
+    {
+        "district_code": "6702",
+        "district": "ชนแดน",
+        "province_code": "67"
+    },
+    {
+        "district_code": "6703",
+        "district": "หล่มสัก",
+        "province_code": "67"
+    },
+    {
+        "district_code": "6704",
+        "district": "หล่มเก่า",
+        "province_code": "67"
+    },
+    {
+        "district_code": "6705",
+        "district": "วิเชียรบุรี",
+        "province_code": "67"
+    },
+    {
+        "district_code": "6706",
+        "district": "ศรีเทพ",
+        "province_code": "67"
+    },
+    {
+        "district_code": "6707",
+        "district": "หนองไผ่",
+        "province_code": "67"
+    },
+    {
+        "district_code": "6708",
+        "district": "บึงสามพัน",
+        "province_code": "67"
+    },
+    {
+        "district_code": "6709",
+        "district": "น้ำหนาว",
+        "province_code": "67"
+    },
+    {
+        "district_code": "6710",
+        "district": "วังโป่ง",
+        "province_code": "67"
+    },
+    {
+        "district_code": "6711",
+        "district": "เขาค้อ",
+        "province_code": "67"
+    },
+    {
+        "district_code": "7001",
+        "district": "เมืองราชบุรี",
+        "province_code": "70"
+    },
+    {
+        "district_code": "7002",
+        "district": "จอมบึง",
+        "province_code": "70"
+    },
+    {
+        "district_code": "7003",
+        "district": "สวนผึ้ง",
+        "province_code": "70"
+    },
+    {
+        "district_code": "7004",
+        "district": "ดำเนินสะดวก",
+        "province_code": "70"
+    },
+    {
+        "district_code": "7005",
+        "district": "บ้านโป่ง",
+        "province_code": "70"
+    },
+    {
+        "district_code": "7006",
+        "district": "บางแพ",
+        "province_code": "70"
+    },
+    {
+        "district_code": "7007",
+        "district": "โพธาราม",
+        "province_code": "70"
+    },
+    {
+        "district_code": "7008",
+        "district": "ปากท่อ",
+        "province_code": "70"
+    },
+    {
+        "district_code": "7009",
+        "district": "วัดเพลง",
+        "province_code": "70"
+    },
+    {
+        "district_code": "7010",
+        "district": "บ้านคา",
+        "province_code": "70"
+    },
+    {
+        "district_code": "7101",
+        "district": "เมืองกาญจนบุรี",
+        "province_code": "71"
+    },
+    {
+        "district_code": "7102",
+        "district": "ไทรโยค",
+        "province_code": "71"
+    },
+    {
+        "district_code": "7103",
+        "district": "บ่อพลอย",
+        "province_code": "71"
+    },
+    {
+        "district_code": "7104",
+        "district": "ศรีสวัสดิ์",
+        "province_code": "71"
+    },
+    {
+        "district_code": "7105",
+        "district": "ท่ามะกา",
+        "province_code": "71"
+    },
+    {
+        "district_code": "7106",
+        "district": "ท่าม่วง",
+        "province_code": "71"
+    },
+    {
+        "district_code": "7107",
+        "district": "ทองผาภูมิ",
+        "province_code": "71"
+    },
+    {
+        "district_code": "7108",
+        "district": "สังขละบุรี",
+        "province_code": "71"
+    },
+    {
+        "district_code": "7109",
+        "district": "พนมทวน",
+        "province_code": "71"
+    },
+    {
+        "district_code": "7110",
+        "district": "เลาขวัญ",
+        "province_code": "71"
+    },
+    {
+        "district_code": "7111",
+        "district": "ด่านมะขามเตี้ย",
+        "province_code": "71"
+    },
+    {
+        "district_code": "7112",
+        "district": "หนองปรือ",
+        "province_code": "71"
+    },
+    {
+        "district_code": "7113",
+        "district": "ห้วยกระเจา",
+        "province_code": "71"
+    },
+    {
+        "district_code": "7201",
+        "district": "เมืองสุพรรณบุรี",
+        "province_code": "72"
+    },
+    {
+        "district_code": "7202",
+        "district": "เดิมบางนางบวช",
+        "province_code": "72"
+    },
+    {
+        "district_code": "7203",
+        "district": "ด่านช้าง",
+        "province_code": "72"
+    },
+    {
+        "district_code": "7204",
+        "district": "บางปลาม้า",
+        "province_code": "72"
+    },
+    {
+        "district_code": "7205",
+        "district": "ศรีประจันต์",
+        "province_code": "72"
+    },
+    {
+        "district_code": "7206",
+        "district": "ดอนเจดีย์",
+        "province_code": "72"
+    },
+    {
+        "district_code": "7207",
+        "district": "สองพี่น้อง",
+        "province_code": "72"
+    },
+    {
+        "district_code": "7208",
+        "district": "สามชุก",
+        "province_code": "72"
+    },
+    {
+        "district_code": "7209",
+        "district": "อู่ทอง",
+        "province_code": "72"
+    },
+    {
+        "district_code": "7210",
+        "district": "หนองหญ้าไซ",
+        "province_code": "72"
+    },
+    {
+        "district_code": "7301",
+        "district": "เมืองนครปฐม",
+        "province_code": "73"
+    },
+    {
+        "district_code": "7302",
+        "district": "กำแพงแสน",
+        "province_code": "73"
+    },
+    {
+        "district_code": "7303",
+        "district": "นครชัยศรี",
+        "province_code": "73"
+    },
+    {
+        "district_code": "7304",
+        "district": "ดอนตูม",
+        "province_code": "73"
+    },
+    {
+        "district_code": "7305",
+        "district": "บางเลน",
+        "province_code": "73"
+    },
+    {
+        "district_code": "7306",
+        "district": "สามพราน",
+        "province_code": "73"
+    },
+    {
+        "district_code": "7307",
+        "district": "พุทธมณฑล",
+        "province_code": "73"
+    },
+    {
+        "district_code": "7401",
+        "district": "เมืองสมุทรสาคร",
+        "province_code": "74"
+    },
+    {
+        "district_code": "7402",
+        "district": "กระทุ่มแบน",
+        "province_code": "74"
+    },
+    {
+        "district_code": "7403",
+        "district": "บ้านแพ้ว",
+        "province_code": "74"
+    },
+    {
+        "district_code": "7501",
+        "district": "เมืองสมุทรสงคราม",
+        "province_code": "75"
+    },
+    {
+        "district_code": "7502",
+        "district": "บางคนที",
+        "province_code": "75"
+    },
+    {
+        "district_code": "7503",
+        "district": "อัมพวา",
+        "province_code": "75"
+    },
+    {
+        "district_code": "7601",
+        "district": "เมืองเพชรบุรี",
+        "province_code": "76"
+    },
+    {
+        "district_code": "7602",
+        "district": "เขาย้อย",
+        "province_code": "76"
+    },
+    {
+        "district_code": "7603",
+        "district": "หนองหญ้าปล้อง",
+        "province_code": "76"
+    },
+    {
+        "district_code": "7604",
+        "district": "ชะอำ",
+        "province_code": "76"
+    },
+    {
+        "district_code": "7605",
+        "district": "ท่ายาง",
+        "province_code": "76"
+    },
+    {
+        "district_code": "7606",
+        "district": "บ้านลาด",
+        "province_code": "76"
+    },
+    {
+        "district_code": "7607",
+        "district": "บ้านแหลม",
+        "province_code": "76"
+    },
+    {
+        "district_code": "7608",
+        "district": "แก่งกระจาน",
+        "province_code": "76"
+    },
+    {
+        "district_code": "7701",
+        "district": "เมืองประจวบคีรีขันธ์",
+        "province_code": "77"
+    },
+    {
+        "district_code": "7702",
+        "district": "กุยบุรี",
+        "province_code": "77"
+    },
+    {
+        "district_code": "7703",
+        "district": "ทับสะแก",
+        "province_code": "77"
+    },
+    {
+        "district_code": "7704",
+        "district": "บางสะพาน",
+        "province_code": "77"
+    },
+    {
+        "district_code": "7705",
+        "district": "บางสะพานน้อย",
+        "province_code": "77"
+    },
+    {
+        "district_code": "7706",
+        "district": "ปราณบุรี",
+        "province_code": "77"
+    },
+    {
+        "district_code": "7707",
+        "district": "หัวหิน",
+        "province_code": "77"
+    },
+    {
+        "district_code": "7708",
+        "district": "สามร้อยยอด",
+        "province_code": "77"
+    },
+    {
+        "district_code": "8001",
+        "district": "เมืองนครศรีธรรมราช",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8002",
+        "district": "พรหมคีรี",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8003",
+        "district": "ลานสกา",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8004",
+        "district": "ฉวาง",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8005",
+        "district": "พิปูน",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8006",
+        "district": "เชียรใหญ่",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8007",
+        "district": "ชะอวด",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8008",
+        "district": "ท่าศาลา",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8009",
+        "district": "ทุ่งสง",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8010",
+        "district": "นาบอน",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8011",
+        "district": "ทุ่งใหญ่",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8012",
+        "district": "ปากพนัง",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8013",
+        "district": "ร่อนพิบูลย์",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8014",
+        "district": "สิชล",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8015",
+        "district": "ขนอม",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8016",
+        "district": "หัวไทร",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8017",
+        "district": "บางขัน",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8018",
+        "district": "ถ้ำพรรณรา",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8019",
+        "district": "จุฬาภรณ์",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8020",
+        "district": "พระพรหม",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8021",
+        "district": "นบพิตำ",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8022",
+        "district": "ช้างกลาง",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8023",
+        "district": "เฉลิมพระเกียรติ",
+        "province_code": "80"
+    },
+    {
+        "district_code": "8101",
+        "district": "เมืองกระบี่",
+        "province_code": "81"
+    },
+    {
+        "district_code": "8102",
+        "district": "เขาพนม",
+        "province_code": "81"
+    },
+    {
+        "district_code": "8103",
+        "district": "เกาะลันตา",
+        "province_code": "81"
+    },
+    {
+        "district_code": "8104",
+        "district": "คลองท่อม",
+        "province_code": "81"
+    },
+    {
+        "district_code": "8105",
+        "district": "อ่าวลึก",
+        "province_code": "81"
+    },
+    {
+        "district_code": "8106",
+        "district": "ปลายพระยา",
+        "province_code": "81"
+    },
+    {
+        "district_code": "8107",
+        "district": "ลำทับ",
+        "province_code": "81"
+    },
+    {
+        "district_code": "8108",
+        "district": "เหนือคลอง",
+        "province_code": "81"
+    },
+    {
+        "district_code": "8201",
+        "district": "เมืองพังงา",
+        "province_code": "82"
+    },
+    {
+        "district_code": "8202",
+        "district": "เกาะยาว",
+        "province_code": "82"
+    },
+    {
+        "district_code": "8203",
+        "district": "กะปง",
+        "province_code": "82"
+    },
+    {
+        "district_code": "8204",
+        "district": "ตะกั่วทุ่ง",
+        "province_code": "82"
+    },
+    {
+        "district_code": "8205",
+        "district": "ตะกั่วป่า",
+        "province_code": "82"
+    },
+    {
+        "district_code": "8206",
+        "district": "คุระบุรี",
+        "province_code": "82"
+    },
+    {
+        "district_code": "8207",
+        "district": "ทับปุด",
+        "province_code": "82"
+    },
+    {
+        "district_code": "8208",
+        "district": "ท้ายเหมือง",
+        "province_code": "82"
+    },
+    {
+        "district_code": "8301",
+        "district": "เมืองภูเก็ต",
+        "province_code": "83"
+    },
+    {
+        "district_code": "8302",
+        "district": "กะทู้",
+        "province_code": "83"
+    },
+    {
+        "district_code": "8303",
+        "district": "ถลาง",
+        "province_code": "83"
+    },
+    {
+        "district_code": "8401",
+        "district": "เมืองสุราษฎร์ธานี",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8402",
+        "district": "กาญจนดิษฐ์",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8403",
+        "district": "ดอนสัก",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8404",
+        "district": "เกาะสมุย",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8405",
+        "district": "เกาะพะงัน",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8406",
+        "district": "ไชยา",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8407",
+        "district": "ท่าชนะ",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8408",
+        "district": "คีรีรัฐนิคม",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8409",
+        "district": "บ้านตาขุน",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8410",
+        "district": "พนม",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8411",
+        "district": "ท่าฉาง",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8412",
+        "district": "บ้านนาสาร",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8413",
+        "district": "บ้านนาเดิม",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8414",
+        "district": "เคียนซา",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8415",
+        "district": "เวียงสระ",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8416",
+        "district": "พระแสง",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8417",
+        "district": "พุนพิน",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8418",
+        "district": "ชัยบุรี",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8419",
+        "district": "วิภาวดี",
+        "province_code": "84"
+    },
+    {
+        "district_code": "8501",
+        "district": "เมืองระนอง",
+        "province_code": "85"
+    },
+    {
+        "district_code": "8502",
+        "district": "ละอุ่น",
+        "province_code": "85"
+    },
+    {
+        "district_code": "8503",
+        "district": "กะเปอร์",
+        "province_code": "85"
+    },
+    {
+        "district_code": "8504",
+        "district": "กระบุรี",
+        "province_code": "85"
+    },
+    {
+        "district_code": "8505",
+        "district": "สุขสำราญ",
+        "province_code": "85"
+    },
+    {
+        "district_code": "8601",
+        "district": "เมืองชุมพร",
+        "province_code": "86"
+    },
+    {
+        "district_code": "8602",
+        "district": "ท่าแซะ",
+        "province_code": "86"
+    },
+    {
+        "district_code": "8603",
+        "district": "ปะทิว",
+        "province_code": "86"
+    },
+    {
+        "district_code": "8604",
+        "district": "หลังสวน",
+        "province_code": "86"
+    },
+    {
+        "district_code": "8605",
+        "district": "ละแม",
+        "province_code": "86"
+    },
+    {
+        "district_code": "8606",
+        "district": "พะโต๊ะ",
+        "province_code": "86"
+    },
+    {
+        "district_code": "8607",
+        "district": "สวี",
+        "province_code": "86"
+    },
+    {
+        "district_code": "8608",
+        "district": "ทุ่งตะโก",
+        "province_code": "86"
+    },
+    {
+        "district_code": "9001",
+        "district": "เมืองสงขลา",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9002",
+        "district": "สทิงพระ",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9003",
+        "district": "จะนะ",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9004",
+        "district": "นาทวี",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9005",
+        "district": "เทพา",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9006",
+        "district": "สะบ้าย้อย",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9007",
+        "district": "ระโนด",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9008",
+        "district": "กระแสสินธุ์",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9009",
+        "district": "รัตภูมิ",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9010",
+        "district": "สะเดา",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9011",
+        "district": "หาดใหญ่",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9012",
+        "district": "นาหม่อม",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9013",
+        "district": "ควนเนียง",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9014",
+        "district": "บางกล่ำ",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9015",
+        "district": "สิงหนคร",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9016",
+        "district": "คลองหอยโข่ง",
+        "province_code": "90"
+    },
+    {
+        "district_code": "9101",
+        "district": "เมืองสตูล",
+        "province_code": "91"
+    },
+    {
+        "district_code": "9102",
+        "district": "ควนโดน",
+        "province_code": "91"
+    },
+    {
+        "district_code": "9103",
+        "district": "ควนกาหลง",
+        "province_code": "91"
+    },
+    {
+        "district_code": "9104",
+        "district": "ท่าแพ",
+        "province_code": "91"
+    },
+    {
+        "district_code": "9105",
+        "district": "ละงู",
+        "province_code": "91"
+    },
+    {
+        "district_code": "9106",
+        "district": "ทุ่งหว้า",
+        "province_code": "91"
+    },
+    {
+        "district_code": "9107",
+        "district": "มะนัง",
+        "province_code": "91"
+    },
+    {
+        "district_code": "9201",
+        "district": "เมืองตรัง",
+        "province_code": "92"
+    },
+    {
+        "district_code": "9202",
+        "district": "กันตัง",
+        "province_code": "92"
+    },
+    {
+        "district_code": "9203",
+        "district": "ย่านตาขาว",
+        "province_code": "92"
+    },
+    {
+        "district_code": "9204",
+        "district": "ปะเหลียน",
+        "province_code": "92"
+    },
+    {
+        "district_code": "9205",
+        "district": "สิเกา",
+        "province_code": "92"
+    },
+    {
+        "district_code": "9206",
+        "district": "ห้วยยอด",
+        "province_code": "92"
+    },
+    {
+        "district_code": "9207",
+        "district": "วังวิเศษ",
+        "province_code": "92"
+    },
+    {
+        "district_code": "9208",
+        "district": "นาโยง",
+        "province_code": "92"
+    },
+    {
+        "district_code": "9209",
+        "district": "รัษฎา",
+        "province_code": "92"
+    },
+    {
+        "district_code": "9210",
+        "district": "หาดสำราญ",
+        "province_code": "92"
+    },
+    {
+        "district_code": "9301",
+        "district": "เมืองพัทลุง",
+        "province_code": "93"
+    },
+    {
+        "district_code": "9302",
+        "district": "กงหรา",
+        "province_code": "93"
+    },
+    {
+        "district_code": "9303",
+        "district": "เขาชัยสน",
+        "province_code": "93"
+    },
+    {
+        "district_code": "9304",
+        "district": "ตะโหมด",
+        "province_code": "93"
+    },
+    {
+        "district_code": "9305",
+        "district": "ควนขนุน",
+        "province_code": "93"
+    },
+    {
+        "district_code": "9306",
+        "district": "ปากพะยูน",
+        "province_code": "93"
+    },
+    {
+        "district_code": "9307",
+        "district": "ศรีบรรพต",
+        "province_code": "93"
+    },
+    {
+        "district_code": "9308",
+        "district": "ป่าบอน",
+        "province_code": "93"
+    },
+    {
+        "district_code": "9309",
+        "district": "บางแก้ว",
+        "province_code": "93"
+    },
+    {
+        "district_code": "9310",
+        "district": "ป่าพยอม",
+        "province_code": "93"
+    },
+    {
+        "district_code": "9311",
+        "district": "ศรีนครินทร์",
+        "province_code": "93"
+    },
+    {
+        "district_code": "9401",
+        "district": "เมืองปัตตานี",
+        "province_code": "94"
+    },
+    {
+        "district_code": "9402",
+        "district": "โคกโพธิ์",
+        "province_code": "94"
+    },
+    {
+        "district_code": "9403",
+        "district": "หนองจิก",
+        "province_code": "94"
+    },
+    {
+        "district_code": "9404",
+        "district": "ปะนาเระ",
+        "province_code": "94"
+    },
+    {
+        "district_code": "9405",
+        "district": "มายอ",
+        "province_code": "94"
+    },
+    {
+        "district_code": "9406",
+        "district": "ทุ่งยางแดง",
+        "province_code": "94"
+    },
+    {
+        "district_code": "9407",
+        "district": "สายบุรี",
+        "province_code": "94"
+    },
+    {
+        "district_code": "9408",
+        "district": "ไม้แก่น",
+        "province_code": "94"
+    },
+    {
+        "district_code": "9409",
+        "district": "ยะหริ่ง",
+        "province_code": "94"
+    },
+    {
+        "district_code": "9410",
+        "district": "ยะรัง",
+        "province_code": "94"
+    },
+    {
+        "district_code": "9411",
+        "district": "กะพ้อ",
+        "province_code": "94"
+    },
+    {
+        "district_code": "9412",
+        "district": "แม่ลาน",
+        "province_code": "94"
+    },
+    {
+        "district_code": "9501",
+        "district": "เมืองยะลา",
+        "province_code": "95"
+    },
+    {
+        "district_code": "9502",
+        "district": "เบตง",
+        "province_code": "95"
+    },
+    {
+        "district_code": "9503",
+        "district": "บันนังสตา",
+        "province_code": "95"
+    },
+    {
+        "district_code": "9504",
+        "district": "ธารโต",
+        "province_code": "95"
+    },
+    {
+        "district_code": "9505",
+        "district": "ยะหา",
+        "province_code": "95"
+    },
+    {
+        "district_code": "9506",
+        "district": "รามัน",
+        "province_code": "95"
+    },
+    {
+        "district_code": "9507",
+        "district": "กาบัง",
+        "province_code": "95"
+    },
+    {
+        "district_code": "9508",
+        "district": "กรงปีนัง",
+        "province_code": "95"
+    },
+    {
+        "district_code": "9601",
+        "district": "เมืองนราธิวาส",
+        "province_code": "96"
+    },
+    {
+        "district_code": "9602",
+        "district": "ตากใบ",
+        "province_code": "96"
+    },
+    {
+        "district_code": "9603",
+        "district": "บาเจาะ",
+        "province_code": "96"
+    },
+    {
+        "district_code": "9604",
+        "district": "ยี่งอ",
+        "province_code": "96"
+    },
+    {
+        "district_code": "9605",
+        "district": "ระแงะ",
+        "province_code": "96"
+    },
+    {
+        "district_code": "9606",
+        "district": "รือเสาะ",
+        "province_code": "96"
+    },
+    {
+        "district_code": "9607",
+        "district": "ศรีสาคร",
+        "province_code": "96"
+    },
+    {
+        "district_code": "9608",
+        "district": "แว้ง",
+        "province_code": "96"
+    },
+    {
+        "district_code": "9609",
+        "district": "สุคิริน",
+        "province_code": "96"
+    },
+    {
+        "district_code": "9610",
+        "district": "สุไหงโก-ลก",
+        "province_code": "96"
+    },
+    {
+        "district_code": "9611",
+        "district": "สุไหงปาดี",
+        "province_code": "96"
+    },
+    {
+        "district_code": "9612",
+        "district": "จะแนะ",
+        "province_code": "96"
+    },
+    {
+        "district_code": "9613",
+        "district": "เจาะไอร้อง",
+        "province_code": "96"
+    }
+]
